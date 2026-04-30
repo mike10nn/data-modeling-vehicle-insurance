@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="LDM" id="ED46DF0D-5F6C-3262-B443-37BFE0F46BD2" version="3.5">
+<createdBy>kumla</createdBy>
+<createdTime>2025-11-12 22:22:49 UTC</createdTime>
+<ownerDesignName>LDM</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>ED46DF0D-5F6C-3262-B443-37BFE0F46BD2</designId>
+</OSDM_Design>
