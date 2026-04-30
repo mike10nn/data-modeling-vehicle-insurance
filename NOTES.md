@@ -1,5 +1,5 @@
-﻿# Repository Notes
+# Portfolio Notes
 
-This repository is a clean GitHub version of the project. The full local working folder contains extra drafts, notes, study guide files, and extracted model folders. Those were not all uploaded because the important submission evidence is already covered by the report, Oracle model exports, and generated DDL.
+This repository is a focused portfolio version of the project. It includes the final report, Oracle model exports for each stage, and the generated Oracle DDL.
 
-The source files in the local coursework folder were not edited for this GitHub upload.
+Extra working drafts and study files were left out so the repository stays easy to review.

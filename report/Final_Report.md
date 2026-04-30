@@ -75,8 +75,6 @@ Important CDM conclusions:
 
 One presentation document explains that the team chose entities based on real vehicle insurance operations: policies, customers, vehicles, claims, renewals, payments, quotes, underwriting, and related services. It also states that normalization was used so real-world concepts such as account, driver license, and party/customer data could be represented separately.
 
-Note: `B_CDM/Presentation decision.docx` contains an unprofessional/offensive closing sentence after the useful presentation content. It should not be included in a formal submission or presentation.
-
 ## Assumptions and Business Rules
 
 The CDM report and LDM notes show several important assumptions:
